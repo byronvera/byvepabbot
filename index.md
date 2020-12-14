@@ -11,6 +11,12 @@ La criptografía se utiliza en la actualidad para dar garantías de seguridad a 
 **La criptografía ofrece claves capaces de cifrar o descifrar esa información utilizando diferentes técnicas.**
 
 
+![Alt Text](https://ichef.bbci.co.uk/news/800/cpsprodpb/F537/production/_110257726_gettyimages-1071175506.jpg)
+![Alt Text](https://ichef.bbci.co.uk/news/800/cpsprodpb/14357/production/_110257728_gettyimages-1071176620.jpg)
+Esta piedra contiene escrito un decreto atribuido al faraón egipcio Ptolomeo V en el año 196 antes de Cristo.
+
+Y en la piedra Rosetta aparece casi el mismo contenido en tres escrituras distintas: jeroglíficos egipcios, la escritura demótica (que era el idioma de los egipcios) y el griego antiguo.
+
 
 
 
